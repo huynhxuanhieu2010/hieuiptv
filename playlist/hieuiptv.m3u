@@ -1,4 +1,8 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Địa phương", Đồng Tháp
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Địa phương", Đồng Tháp HD
 http://123.25.238.45:1935/live/thtg/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Địa phương", Đồng Tháp 1
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Địa phương", Đồng Tháp 2
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
