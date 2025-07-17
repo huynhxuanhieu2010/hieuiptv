@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Địa phương", Đồng Tháp
+http://123.25.238.45:1935/live/thtg/playlist.m3u8
