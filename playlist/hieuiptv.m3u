@@ -9,5 +9,5 @@ https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:0, Cartoon
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
-#EXTINF:0 tvg-id="no" tvg-logo="" group-title="🇵🇰| Pakistan", 24 News HD
+#EXTINF:0 tvg-id="no" tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/logo/tv/1755402926392.png" group-title="🇵🇰| Pakistan", 24 News HD
 http://175.107.244.52:4456/play/a031/index.m3u8
