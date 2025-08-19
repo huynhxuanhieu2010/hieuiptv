@@ -4,5 +4,7 @@
 
 #EXTINF:0 tvg-id="no" tvg-logo="no" group-title="🇵🇰| Pakistan", Cartoon Network HD
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:0 tvg-id="no" tvg-logo="no" group-title="🇵🇰| Pakistan", Lahorerang News
+https://vodzong.mjunoon.tv:8087/streamtest/lhrrang-179/playlist.m3u8
 #EXTINF:0 tvg-id="no" tvg-logo="no" group-title="🇵🇰| Pakistan", Minimax HD
 https://vodzong.mjunoon.tv:8087/streamtest/157-1M/chunks.m3u8
