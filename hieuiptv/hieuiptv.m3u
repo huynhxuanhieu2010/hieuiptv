@@ -13,3 +13,5 @@ https://vodzong.mjunoon.tv:8087/streamtest/157-1M/chunks.m3u8
 
 #EXTINF:0 tvg-id="no" tvg-logo="no" group-title="🇰🇷| Hàn Quốc", KBS1 HD
 http://211.117.11.12:7340/udp/239.192.67.100:49220
+#EXTINF:0 tvg-id="no" tvg-logo="no" group-title="🇰🇷| Hàn Quốc", KBSN Sports HD
+http://211.117.11.12:7340/udp/239.192.67.132:49220
