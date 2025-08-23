@@ -17,3 +17,5 @@ http://211.117.11.12:7340/udp/239.192.67.100:49220
 http://211.117.11.12:7340/udp/239.192.67.132:49220
 #EXTINF:0 tvg-id="no" tvg-logo="no" group-title="🇰🇷| Hàn Quốc", NS홈쇼핑 HD
 http://211.117.11.12:7340/udp/239.192.52.10:49220
+#EXTINF:0 tvg-id="no" tvg-logo="no" group-title="🇰🇷| Hàn Quốc", MBC Sports+ HD
+http://211.117.11.12:7340/udp/239.192.67.131:49220
