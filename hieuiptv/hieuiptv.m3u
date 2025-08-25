@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="no" tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/hieuiptv/logo/tv/dia-phuong/TH-TP-CanTho-1.png" group-title="🇻🇳| Địa phương", TH TP Cần Thơ 1
+https://live.canthotv.vn/live/tv/playlist.m3u8
+
 #EXTINF:0 tvg-id="no" tvg-logo="no" group-title="🇰🇷| Hàn Quốc", KBS1 HD
 http://211.117.11.12:7340/udp/239.192.67.100:49220
 #EXTINF:0 tvg-id="no" tvg-logo="no" group-title="🇰🇷| Hàn Quốc", KBSN Sports HD
