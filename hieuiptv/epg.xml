@@ -1,0 +1,13 @@
+<tv generator-info-name="" generator-info-url="">
+  <channel id="cantho1hd">
+    <display-name>TH TP Cần Thơ 1 HD</display-name>
+  </channel>
+  <channel id="cantho2hd">
+    <display-name>TH TP Cần Thơ 2 HD</display-name>
+  </channel>
+  <channel id="cantho3hd">
+    <display-name>TH TP Cần Thơ 3 HD</display-name>
+  </channel>
+  <programme start="20250825050000 +0700" stop="20250825050200 +0700" channel="cantho2hd">
+    <title>GIỚI THIỆU CHƯƠNG TRÌNH TRONG NGÀY</title>
+  </programme>
