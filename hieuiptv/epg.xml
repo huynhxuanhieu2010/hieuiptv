@@ -35,6 +35,18 @@
   <programme start="20250826144500 +0700" stop="20250826150000 +0700" channel="cantho2hd">
     <title>KÝ SỰ ĐƯỜNG HỒ CHÍ MINH TRÊN BIỂN (TẬP 8)</title>
   </programme>
+  <programme start="20250826150000 +0700" stop="20250826151500 +0700" channel="cantho2hd">
+    <title>BẢN TIN 15 GIỜ</title>
+  </programme>
+  <programme start="20250826151500 +0700" stop="20250826160000 +0700" channel="cantho2hd">
+    <title>ALO BÁC SĨ ƠI</title>
+  </programme>
+  <programme start="20250826160000 +0700" stop="20250826161500 +0700" channel="cantho2hd">
+    <title>NÔNG NGHIỆP SINH THÁI</title>
+  </programme>
+  <programme start="20250826161500 +0700" stop="20250826174500 +0700" channel="cantho2hd">
+    <title>PHIM TRUYỆN: SỨ MỆNH ANH HÙNG (TẬP 6 - 7)</title>
+  </programme>
   
   <programme start="20250825170000 +0700" stop="20250825172000 +0700" channel="cantho3hd">
     <title>KÝ SỰ: QUA MIỀN HẬU GIANG</title>
