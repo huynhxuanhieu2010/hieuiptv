@@ -9,13 +9,31 @@
     <display-name>TH TP Cần Thơ 3 HD</display-name>
   </channel>
   <programme start="20250826083000 +0700" stop="20250826100000 +0700" channel="cantho2hd">
-    <title>PHIM TRUYỆN: KHÔNG NHÂN NHƯỢNG (Tập 26, 27)</title>
+    <title>PHIM TRUYỆN: KHÔNG NHÂN NHƯỢNG (TẬP 26, 27)</title>
   </programme>
   <programme start="20250826100000 +0700" stop="20250826104500 +0700" channel="cantho2hd">
-    <title>PHIM TÀI LIỆU: THỜI ĐẠI HCM BIÊN NIÊN SỬ TRUYỀN HÌNH (Tập 17,18)</title>
+    <title>PHIM TÀI LIỆU: THỜI ĐẠI HCM BIÊN NIÊN SỬ TRUYỀN HÌNH (TẬP 17,18)</title>
   </programme>
   <programme start="20250826104500 +0700" stop="20250826110000 +0700" channel="cantho2hd">
-    <title>HƯƠNG VỊ QUÊ NHÀ (Mùa 2 - Tập 26)</title>
+    <title>HƯƠNG VỊ QUÊ NHÀ (MÙA 2 - TẬP 26)</title>
+  </programme>
+  <programme start="20250826110000 +0700" stop="20250826113000 +0700" channel="cantho2hd">
+    <title>CHUYỆN TÌNH TÔI KỂ</title>
+  </programme>
+  <programme start="20250826113000 +0700" stop="20250826120000 +0700" channel="cantho2hd">
+    <title>CHUYỂN ĐỘNG ĐÔNG TÂY</title>
+  </programme>
+  <programme start="20250826120000 +0700" stop="20250826133000 +0700" channel="cantho2hd">
+    <title>PHIM TRUYỆN: KẾ HOẠCH ĐÀO TẨU (TẬP 15, 16)</title>
+  </programme>
+  <programme start="20250826133000 +0700" stop="20250826141500 +0700" channel="cantho2hd">
+    <title>PHIM TÀI LIỆU NGƯỜI CÔNG AN CÁCH MẠNG - TẬP 8</title>
+  </programme>
+  <programme start="20250826141500 +0700" stop="20250826144500 +0700" channel="cantho2hd">
+    <title>THƯƠNG CA QUÊ NHÀ</title>
+  </programme>
+  <programme start="20250826144500 +0700" stop="20250826150000 +0700" channel="cantho2hd">
+    <title>KÝ SỰ ĐƯỜNG HỒ CHÍ MINH TRÊN BIỂN (TẬP 8)</title>
   </programme>
   
   <programme start="20250825170000 +0700" stop="20250825172000 +0700" channel="cantho3hd">
