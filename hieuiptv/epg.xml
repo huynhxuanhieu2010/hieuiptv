@@ -47,6 +47,36 @@
   <programme start="20250826161500 +0700" stop="20250826174500 +0700" channel="cantho2hd">
     <title>PHIM TRUYỆN: SỨ MỆNH ANH HÙNG (TẬP 6 - 7)</title>
   </programme>
+  <programme start="20250826174500 +0700" stop="20250826180000 +0700" channel="cantho2hd">
+    <title>THỜI TIẾT NÔNG VỤ</title>
+  </programme>
+  <programme start="20250826180000 +0700" stop="20250826182900 +0700" channel="cantho2hd">
+    <title>KÝ SỰ QUA MIỀN HẬU GIANG (TẬP 49, 50)</title>
+  </programme>
+  <programme start="20250826182900 +0700" stop="20250826190000 +0700" channel="cantho2hd">
+    <title>TIN TỨC MEKONG</title>
+  </programme>
+  <programme start="20250826190000 +0700" stop="20250826194000 +0700" channel="cantho2hd">
+    <title>TIẾP SÓNG THỜI SỰ VTV</title>
+  </programme>
+  <programme start="20250826194000 +0700" stop="20250826200000 +0700" channel="cantho2hd">
+    <title>THỜI SỰ CẦN THƠ</title>
+  </programme>
+  <programme start="20250826200000 +0700" stop="20250826220000 +0700" channel="cantho2hd">
+    <title>TIẾP SÓNG TRIỂN LÃM 80 NĂM HÀNH TRÌNH ĐỘC LẬP - TỰ DO - HẠNH PHÚC</title>
+  </programme>
+  <programme start="20250826220000 +0700" stop="20250826223000 +0700" channel="cantho2hd">
+    <title>KÝ SỰ QUA MIỀN HẬU GIANG (TẬP 49, 50)</title>
+  </programme>
+  <programme start="20250826223000 +0700" stop="20250826230000 +0700" channel="cantho2hd">
+    <title>CHUYỆN TÌNH TÔI KỂ</title>
+  </programme>
+  <programme start="20250826230000 +0700" stop="20250826231500 +0700" channel="cantho2hd">
+    <title>PHIM TRUYỆN: CHUYỆN QUÊ MÌNH (MÙA 1 - TẬP 44)</title>
+  </programme>
+  <programme start="20250826231500 +0700" stop="20250827000000 +0700" channel="cantho2hd">
+    <title>ALO BÁC SĨ ƠI</title>
+  </programme>
   
   <programme start="20250825170000 +0700" stop="20250825172000 +0700" channel="cantho3hd">
     <title>KÝ SỰ: QUA MIỀN HẬU GIANG</title>
