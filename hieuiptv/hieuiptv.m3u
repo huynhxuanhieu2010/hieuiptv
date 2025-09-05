@@ -9,8 +9,10 @@ https://live.canthotv.vn/live/tv/playlist.m3u8
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
 #EXTINF:0 tvg-id="cantho3hd" tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/hieuiptv/logo/tv/dia-phuong/TH-TP-CanTho-3.png" group-title="🇻🇳| Địa phương", TH TP Cần Thơ 3 HD
 https://live.canthotv.vn/live/cs3/playlist.m3u8
-#EXTINF:0 tvg-id="no" tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/hieuiptv/logo/tv/dia-phuong/TH-DongThap-1.png" group-title="🇻🇳| Địa phương", TH Đồng Tháp 1 HD
+#EXTINF:0 tvg-id="no" tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/hieuiptv/logo/tv/dia-phuong/TH-DongThap-1.png" group-title="🇻🇳| Địa phương", TH Đồng Tháp 1
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+#EXTINF:0 tvg-id="no" tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/hieuiptv/logo/tv/dia-phuong/TH-LamDong-1.png" group-title="🇻🇳| Địa phương", TH Lâm Đồng 1
+http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="no" tvg-logo="no" group-title="🇰🇷| Hàn Quốc", KBS1 HD
 http://211.117.11.12:7340/udp/239.192.67.100:49220
