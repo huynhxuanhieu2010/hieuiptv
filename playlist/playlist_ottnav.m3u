@@ -59,3 +59,5 @@ https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
 https://live.canthotv.vn/live/tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/logo/ottnav/tv/TH-CanTho-2.png" group-title="Địa phương" group-logo="", TH Cần Thơ 2 HD
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/logo/ottnav/tv/TH-CanTho-3.png" group-title="Địa phương" group-logo="", TH Cần Thơ 3 HD
+https://live.canthotv.vn/live/cs3/playlist.m3u8
