@@ -2,7 +2,12 @@
 
 #EXTINF:0 tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/logo/imediatv/TH-AnGiang-1.jpg" group-title="Kênh địa phương", An Giang 1 HD
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
+
 #EXTINF:0 tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/logo/imediatv/TH-AnGiang-1.jpg" group-title="Kênh địa phương", An Giang 1 HD
 https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+
 #EXTINF:0 tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/logo/imediatv/TH-AnGiang-2.jpg" group-title="Kênh địa phương", An Giang 2 HD
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/logo/imediatv/TH-AnGiang-3.jpg" group-title="Kênh địa phương", An Giang 3 HD
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
