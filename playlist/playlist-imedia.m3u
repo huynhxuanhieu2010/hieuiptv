@@ -21,3 +21,8 @@ https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Cần Thơ 3 FHD
 https://live.canthotv.vn/live/cs3/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Đà Nẵng 1
+https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Đà Nẵng 2
+https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
