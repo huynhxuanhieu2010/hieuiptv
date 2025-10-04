@@ -15,6 +15,15 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", HTV9 FHD
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", BTV1
+https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", BTV2
+https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", BTV9 - An Viên
+https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", BRT
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", An Giang 1 HD
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", An Giang 2 HD
