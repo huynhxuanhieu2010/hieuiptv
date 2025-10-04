@@ -24,6 +24,21 @@ https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", BRT HD
 https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", HTVC Ca Nhạc
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", HTVC Du Lịch Cuộc Sống
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", HTVC Gia Đình
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", HTVC Phim
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", HTVC Phụ Nữ
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", HTVC Thuần Việt
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", HTVC Plus
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", An Giang 1 HD
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", An Giang 2 HD
