@@ -124,3 +124,17 @@ https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Lâm Đồng 3
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Nghệ An
+https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Ninh Bình
+https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Phú Thọ
+https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Quảng Ngãi
+https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Quảng Ninh 1
+https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Quảng Ninh 3
+https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist.m3u8
