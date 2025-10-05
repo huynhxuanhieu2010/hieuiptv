@@ -14,7 +14,6 @@ https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", HTV9 FHD
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", BTV1 HD
 https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", BTV2 HD
@@ -23,7 +22,6 @@ https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", BRT HD
 https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", HTVC Ca Nhạc FHD
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", HTVC Du Lịch Cuộc Sống FHD
@@ -45,96 +43,75 @@ https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", An Giang 3 FHD
 https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Cà Mau HD
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Cao Bằng HD
 https://live.fptplay53.net/fnxsd1/caobang_hls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Cần Thơ 1 HD
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Cần Thơ 2 FHD
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Cần Thơ 3 FHD
 https://live.canthotv.vn/live/cs3/playlist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Đà Nẵng 1 HD
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Đà Nẵng 2 HD
 https://live.fptplay53.net/epzsd1/danang2_hls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Đắk Lắk HD
 https://live.fptplay53.net/epzsd1/daklak_hls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Điện Biên HD
 https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Đồng Nai 1 HD
 https://live.fptplay53.net/epzsd1/dongnai1_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Đồng Nai 2 HD
 https://live.fptplay53.net/epzsd1/dongnai2_hls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Đồng Tháp 1 FHD
 https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Đồng Tháp 2 FHD
 https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Gia Lai HD
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Hà Nội 1 FHD
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Hà Nội 2 UHD
 https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Hà Tĩnh HD
 https://live.fptplay53.net/fnxsd1/hatinh_hls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Hải Phòng HD
 https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Hải Phòng+ HD
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Hải Phòng 3 HD
 https://live.haiduongtv.vn/live/285857e204bb558402db3b431e183b6638d/playlist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Huế HD
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Hưng Yên HD
 https://live.fptplay53.net/fnxsd1/hungyen_2000.stream/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Khánh Hòa HD
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Khánh Hòa 1 HD
 https://618b88f69e53b.streamlock.net/NTV/ntvtv/playlist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Lai Châu HD
 https://live.fptplay53.net/fnxsd1/laichau_hls.smil/chunklist.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Lạng Sơn HD
 https://live.fptplay53.net/fnxsd1/langson_hls.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Lào Cai
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Lào Cai HD
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Lâm Đồng 1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Lâm Đồng 1 HD
 https://live.fptplay53.net/epzsd1/lamdong_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Lâm Đồng 2
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Lâm Đồng 2 HD
 https://live.fptplay53.net/epzsd1/lamdong02_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Lâm Đồng 3
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Lâm Đồng 3 FHD
 https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Nghệ An
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Nghệ An HD
 https://live.fptplay53.net/fnxsd1/nghean_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Ninh Bình
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Ninh Bình HD
 https://live.fptplay53.net/fnxsd1/ninhbinh_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Phú Thọ
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Phú Thọ HD
 https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Quảng Ngãi
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Quảng Ngãi HD
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Quảng Ninh 1
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Quảng Ninh 1 HD
 https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Quảng Ninh 3
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Quảng Ninh 3 HD
 https://live.fptplay53.net/fnxsd1/quangninh3_hls.smil/chunklist.m3u8
