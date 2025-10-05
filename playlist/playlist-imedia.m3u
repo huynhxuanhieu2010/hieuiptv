@@ -37,6 +37,21 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh HTV", HTVC Plus FHD
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV1
+https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV2 - TodayTV
+https://liveh12.seenow.vn/hls/SCTV2/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV3 - SEE
+https://liveh12.seenow.vn/hls/SCTV3/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV4
+https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV6
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV7
+https://liveh12.seenow.vn/hls/SCTV7/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV8 - VITV
+https://liveh12.seenow.vn/hls/SCTV8/index.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh Vĩnh Long", Vĩnh Long 1 FHD
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh Vĩnh Long", Vĩnh Long 2 FHD
