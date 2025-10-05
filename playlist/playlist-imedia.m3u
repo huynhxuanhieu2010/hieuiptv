@@ -41,12 +41,20 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV2 - TodayTV HD
 https://liveh12.seenow.vn/hls/SCTV2/index.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV3 - SEE
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV4 HD
 https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV6 FHD
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV7
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV8
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV10
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv10
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV11
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv11
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV12
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv12
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh SCTV", SCTV13
