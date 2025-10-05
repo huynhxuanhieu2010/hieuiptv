@@ -123,3 +123,10 @@ https://live.fptplay53.net/fnxsd1/sonla_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Tây Ninh 2 HD
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Thái Nguyên 
+https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Thanh Hóa
+https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="Kênh địa phương", Tuyên Quang
+https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
