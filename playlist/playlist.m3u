@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="SCTV" group-logo="", SCTV1 HD
 https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="SCTV" group-logo="", SCTV2 HD
@@ -7,7 +8,7 @@ https://liveh12.seenow.vn/hls/SCTV2/index.m3u8
 https://liveh34.seenow.vn/hls/SCTV3/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="SCTV" group-logo="", SCTV4 HD
 https://liveh12.seenow.vn/hls/SCTV4/index.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="SCTV" group-logo="", SCTV6
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="SCTV" group-logo="", SCTV6 FHD
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="SCTV" group-logo="", SCTV7 HD
 https://liveh34.seenow.vn/hls/SCTV7/index.m3u8
