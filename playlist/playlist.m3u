@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="" tvg-logo="" group-title="SCTV" group-logo="", SCTV1 HD
+#EXTINF:0 tvg-id="" tvg-logo="https://huynhxuanhieu2010.github.io/hieuiptv/logo/channel/SCTV/SCTV1.png" group-title="SCTV" group-logo="", SCTV1 HD
 https://liveh12.seenow.vn/hls/SCTV1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="SCTV" group-logo="", SCTV2 HD
 https://liveh12.seenow.vn/hls/SCTV2/index.m3u8
