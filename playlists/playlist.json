@@ -32,7 +32,9 @@ Phân loại: K",
       "icon": "https://huynhxuanhieu2010.github.io/hieuiptv/images/groups/movies/disney_plus.jpg"
     },
     "info": {
-      "poster": "https://huynhxuanhieu2010.github.io/hieuiptv/images/posters/tv_series/disney_plus/zootopia_plus.jpg"
+      "poster": "https://huynhxuanhieu2010.github.io/hieuiptv/images/posters/tv_series/disney_plus/zootopia_plus.jpg",
+      "country": [ "Hoa Kỳ" ],
+      "year": "2022"
     },
     "seasons": [
       {
