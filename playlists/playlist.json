@@ -4,11 +4,11 @@
     "name:vi": "Zootopia 2: Phi vụ động trời 2",
     "category": {
       "name": "Disney+",
-      "icon": "hieuiptv/images/groups/movies/disney_plus.jpg"
+      "icon": "https://huynhxuanhieu2010.github.io/hieuiptv/images/groups/movies/disney_plus.jpg"
     },
     "info": {
-      "poster": "hieuiptv/images/posters/movies/disney_plus/zootopia_2.jpeg",
-      "bg": "hieuiptv/images/backgrounds/movies/disney_plus/zootopia_2.jpeg",
+      "poster": "https://huynhxuanhieu2010.github.io/hieuiptv/images/posters/movies/disney_plus/zootopia_2.jpeg",
+      "bg": "https://huynhxuanhieu2010.github.io/hieuiptv/images/backgrounds/movies/disney_plus/zootopia_2.jpeg",
       "plot": "",
       "director": [ "" , "" ],
       "country": [ "Hoa Kỳ" ],
