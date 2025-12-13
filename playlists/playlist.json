@@ -31,7 +31,9 @@ Phân loại: K",
       "name": "Disney+",
       "icon": "https://huynhxuanhieu2010.github.io/hieuiptv/images/groups/movies/disney_plus.jpg"
     },
-    "info": {},
+    "info": {
+      "poster": "https://huynhxuanhieu2010.github.io/hieuiptv/images/posters/tv_series/disney_plus/zootopia_plus.jpg"
+    },
     "seasons": [
       {
         "season": 1,
