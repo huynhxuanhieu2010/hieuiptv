@@ -24,5 +24,27 @@ Phân loại: K",
       "backdrop": ""
     },
     "video": "https://vip.opstream10.com/20251207/31687_14f97b19/index.m3u8"
+  },
+  {
+    "name": "Zootopia+",
+    "category": {
+      "name": "Disney+",
+      "icon": "https://huynhxuanhieu2010.github.io/hieuiptv/images/groups/movies/disney_plus.jpg"
+    },
+    "info": {},
+    "seasons": [
+      {
+        "season": 1,
+        "info": {},
+        "episodes": [
+          {
+            "episode": 1,
+            "name": "",
+            "info": {},
+            "video": "https://vip.opstream16.com/20221109/25641_75b64c69/index.m3u8"
+          }
+        ]
+      }
+    ]
   }
 ]
