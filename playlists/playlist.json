@@ -1,1 +1,24 @@
-
+[
+  {
+    "name": "Zootopia 2,
+    "name:vi": "Zootopia 2: Phi vụ động trời 2",
+    "category": {
+      "name": "Disney+",
+      "icon": "/images/groups/movies/disney_plus.jpg"
+    },
+    "info": {
+      "poster": "/images/posters/movies/disney_plus/zootopia_2.jpeg",
+      "bg": "/images/backgrounds/movies/disney_plus/zootopia_2.jpeg",
+      "plot": "",
+      "director": [ "" , "" ],
+      "country": [ "Hoa Kỳ" ],
+      "rating": "7.7",
+      "year": "2025",
+      "genre": [ "kids" , "comedy" ],
+      "duration": 1,
+      "trailer": "",
+      "backdrop": ""
+    },
+    "video": ""
+  }
+]
